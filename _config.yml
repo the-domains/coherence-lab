@@ -1,0 +1,28 @@
+name: Coherence Lab
+favicon: null
+layout_spectrum: 0.3898747335188091
+typography_spectrum: 0.08263538731262088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9398739854805171
+  lightness: 0.17822674824856222
+  saturation: 0.9246585650835186
+  rhythmicContrast: 0.21750952932052314
+purpose: []
